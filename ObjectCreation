@@ -18,3 +18,26 @@ public static void main(String[] args) {
 	Actions action=new Actions(driver); 
 }
 }
+/*
+1 move to Element(target)
+2 move to Element(target,x offset, y offset)
+3 Context Click()
+4 Context Click(target)
+5 SendKeys(char sequence)
+6 SendKeys(target,char sequence)
+7 Click()
+8 Click(target)
+9 Click and hold()
+10 Click And Hold(target)
+11 Drag and Drop()
+12 Drag and Drop By()
+13 release()
+14 release(target)
+15 perform()
+16 doubleClick()
+17 doubleClick(target)
+18 build()
+19 moveByOffset(int x, int y)
+20 KeyUp
+21 KeyDown
+*/ 
